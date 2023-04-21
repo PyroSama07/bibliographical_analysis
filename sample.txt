@@ -1,0 +1,53 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Sangroya, D
+   Nayak, JK
+AF Sangroya, Deepak
+   Nayak, Jogendra Kumar
+TI Factors influencing buying behaviour of green energy consumer
+SO JOURNAL OF CLEANER PRODUCTION
+LA English
+DT Article
+DE Consumer behaviour; Green energy; Post purchase evaluation
+ID WILLINGNESS-TO-PAY; PERCEIVED VALUE; SUSTAINABLE CONSUMPTION;
+   CLIMATE-CHANGE; CUSTOMER LOYALTY; WARM GLOW; ELECTRICITY; SATISFACTION;
+   INTENTIONS; DETERMINANTS
+AB Green energy has gained significant research attention across the globe due to its ability to reduce environmental damage. However, for complete acceptance of green energy, only government regulations are not enough; the willingness to use green energy and contribute to the wellbeing of the environment should spring from within consumers. Such willingness may be developed by enhancing consumers' perceived value of green energy. However, in order to do so, it is necessary to assess existing levels of consumers' perceived value towards green energy. The present study develops a multidimensional green perceived value scale to measure existing levels of consumers' perceived value. The scale considers green perceived value as a multidimensional second order construct comprising functional value, social value, conditional value and emotional value dimensions. Such an attempt has not been made before which highlights the originality value of the present study. The scale can be used to assess consumers' perception towards green energy. Such information would help in formulating strategies that encourage consumers to voluntarily adopt green energy. The study also reveals that it is not only the financial aspects that lead consumers to decide on adoption of green energy; consumers are also driven by emotional and social considerations. Thus, policy makers could formulate pro-green energy programmes and mass messages that appeal to consumers' sense of responsibility to voluntarily adopt green energy without having to rely on financial incentives. Researchers could examine the considered dimensions of the scale further with respect to other constructs related to consumer behaviour. (C) 2017 Elsevier Ltd. All rights reserved.
+C1 [Sangroya, Deepak] Symbiosis Int Univ, SCMHRD, Pune, Maharashtra, India.
+   [Nayak, Jogendra Kumar] Indian Inst Technol, Roorkee, Uttar Pradesh, India.
+C3 Symbiosis International University; Symbiosis Centre for Management &
+   Human Resource Development (SCMHRD); Indian Institute of Technology
+   System (IIT System); Indian Institute of Technology (IIT) - Roorkee
+RP Sangroya, D (corresponding author), Symbiosis Int Univ, SCMHRD, Pune, Maharashtra, India.
+EM sangroyadeepak@gmail.com; joginder.nayak@gmail.com
+NR 102
+TC 90
+Z9 93
+U1 17
+U2 99
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0959-6526
+EI 1879-1786
+J9 J CLEAN PROD
+JI J. Clean Prod.
+PD MAY 10
+PY 2017
+VL 151
+BP 393
+EP 405
+DI 10.1016/j.jclepro.2017.03.010
+PG 13
+WC Green & Sustainable Science & Technology; Engineering, Environmental;
+   Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics; Engineering; Environmental Sciences
+   & Ecology
+GA ES5ZA
+UT WOS:000399624000035
+DA 2023-04-21
+ER
+
+EF
