@@ -1,0 +1,17 @@
+Sustainable Development Goals	Record Count	% of 1,558
+07 Affordable And Clean Energy	903	57.959
+13 Climate Action	261	16.752
+11 Sustainable Cities And Communities	64	4.108
+06 Clean Water And Sanitation	59	3.787
+12 Responsible Consumption And Production	38	2.439
+09 Industry Innovation And Infrastructure	18	1.155
+03 Good Health And Well Being	17	1.091
+01 No Poverty	10	0.642
+02 Zero Hunger	10	0.642
+08 Decent Work And Economic Growth	4	0.257
+15 Life On Land	4	0.257
+04 Quality Education	2	0.128
+10 Reduced Inequality	2	0.128
+14 Life Below Water	1	0.064
+16 Peace And Justice Strong Institutions	1	0.064
+239 record(s) (15.340%) do not contain data in the field being analyzed
