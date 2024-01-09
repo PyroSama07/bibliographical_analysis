@@ -5,6 +5,14 @@ name = "pypi"
 
 [packages]
 pandas = "*"
+seaborn = "*"
+ipykernel = "*"
+matplotlib = "*"
+scipy = "*"
+scikit-learn = "*"
+setuptools = "*"
+numpy = "*"
+requests = "*"
 
 [dev-packages]
 ipykernel = "*"
